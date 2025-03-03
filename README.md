@@ -1,1 +1,1 @@
-# protonvpn
+# proton-vpn
